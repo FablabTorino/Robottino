@@ -27,7 +27,7 @@
 In Arduino:*Sketch > Include Library > Manage Libraries...
 Cerca e installa la libreria denominata "u8glib"
  3. Installa la **libreria Robottino**:
- Scarica lo .zip da qui [Robottino-ArduinoLibrary.zip](https://github.com/FablabTorino/Robottino/blob/master/Software/Robottino-ArduinoLibrary/Robottino-ArduinoLibrary.zip).
+ Scarica lo .zip da qui [Robottino-ArduinoLibrary.zip](https://github.com/FablabTorino/Robottino/blob/master/Software/Robottino-ArduinoLibrary/Robottino-ArduinoLibrary.zip).		
  In Arduino: *Sketch > Include Library > Add .ZIP Library*
 
 
