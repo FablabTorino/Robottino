@@ -47,7 +47,7 @@ void loop() {
 
 #Reference
 
-[www.robottino.cc/reference](www.robottino.cc/reference)
+[github.com/FablabTorino/Robottino/wiki/Reference](https://github.com/FablabTorino/Robottino/wiki/Reference)
 
 ##Pinout
 Componente | PIN
