@@ -74,5 +74,5 @@ Hanno contribuito al software:
 [Creative Commons: Attribution-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/)
 
 ***
-Powered by [**Tongatron**](http://tongatron.it/)  
-Hosted and developed in [**Fablab Torino**](http://fablabtorino.org/)
+powered by [**Tongatron**](http://tongatron.it/)  
+hosted and developed in [**Fablab Torino**](http://fablabtorino.org/)
