@@ -3,7 +3,7 @@
 Robottino Peppino;            //nominiamo l'oggetto robottino, possible il nome a condizione di sostituirlo dappertutto
 
 void setup() {
-  Peppino.begin();            // diciamo al robot di "cominciare"
+  Peppino.begin();            // diciamo al robot di "cominciare" 
 }
 
 void loop() {
