@@ -24,7 +24,7 @@
 
  1. Installa l'ultima versione dell'**Arduino IDE**.		
  Scarica Arduino da qui: [www.arduino.cc/en/Main/Software](https://www.arduino.cc/en/Main/Software)
- 2. Installa la **libreria u8glib** necessaria per la gestione del display.
+ 2. Installa la **libreria u8glib** necessaria per la gestione del display.		
 In Arduino: *Sketch > Include Library > Manage Libraries...*			
 Cerca e installa la libreria denominata "u8glib"	
  3. Installa la **libreria Robottino**:			
