@@ -33,7 +33,7 @@ Cerca e installa la libreria denominata "u8glib"
 
 
 ##Hello World
-Questo programma esemplificativo mostra le funzioni base del Robottino
+Il seguente programma esemplificativo mostra alcune funzioni base del Robottino:
 
 ```Arduino
 #include "Robottino.h"
@@ -42,7 +42,10 @@ void setup() {
   	Peppino.begin();
 	}
 void loop() {
-  Peppino.naso(arcobaleno);
+  Peppino.naso(verde);
+  Peppino.espressione(felice);
+  Peppino.beep(silenzio);     
+  Peppino.ruota(lento); 
 }
 ```
 
