@@ -22,12 +22,13 @@
 
 ##Installazione
 
- 1. Installa l'ultima versione dell'**Arduino IDE**. Scarica Arduino da qui: [www.arduino.cc/en/Main/Software](https://www.arduino.cc/en/Main/Software)
+ 1. Installa l'ultima versione dell'**Arduino IDE**.		
+ Scarica Arduino da qui: [www.arduino.cc/en/Main/Software](https://www.arduino.cc/en/Main/Software)
  2. Installa la **libreria u8glib** necessaria per la gestione del display.
-In Arduino: *Sketch > Include Library > Manage Libraries...*	
-Cerca e installa la libreria denominata "u8glib"
- 3. Installa la **libreria Robottino**:		
- Scarica lo .zip da qui [Robottino-ArduinoLibrary.zip](https://github.com/FablabTorino/Robottino/blob/master/Software/Robottino-ArduinoLibrary/Robottino-ArduinoLibrary.zip).		
+In Arduino: *Sketch > Include Library > Manage Libraries...*			
+Cerca e installa la libreria denominata "u8glib"	
+ 3. Installa la **libreria Robottino**:			
+ Scarica lo .zip da qui [Robottino-ArduinoLibrary.zip](https://github.com/FablabTorino/Robottino/blob/master/Software/Robottino-ArduinoLibrary/Robottino-ArduinoLibrary.zip).			
  In Arduino: *Sketch > Include Library > Add .ZIP Library*
 
 
