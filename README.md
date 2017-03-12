@@ -1,9 +1,9 @@
 
 #ROBOTTINO - testa rotante interattiva
 
-[**WWW.ROBOTTINO.CC**](http://robottino.cc/test/)
+[**WWW.ROBOTTINO.CC**](http://robottino.cc)
 
-![Alt text](http://robottino.cc/test/img/robottino-stardust-600x600.jpg "Robottino")
+![Robottino](http://robottino.cc/img/robottino-stardust-600x600.jpg)
 
 ## Licenza
 [Creative Commons: Attribution-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/)
